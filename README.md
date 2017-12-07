@@ -1,4 +1,4 @@
-Only tested on the TL-WN722N (V2.1) with mkfruba's driver.
+Only tested on the TL-WN722N (V2.1) with mfruba's driver.
 * Distro: Arch Linux
 * Kernel: 4.14.4-1 (linux-armv7)
 * CPU: Rockchip RK3288C
